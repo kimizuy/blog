@@ -1,4 +1,4 @@
-import { useImageOverlay } from '@/providers/imageOverlayProvider'
+import { useImageOverlay } from 'providers/imageOverlayProvider'
 import { Components } from '@mdx-js/react'
 import Image from 'next/image'
 import Highlight, { defaultProps, Language } from 'prism-react-renderer'

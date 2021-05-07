@@ -1,4 +1,4 @@
-import { Meta } from '@/types/post'
+import { Meta } from 'types/post'
 import { format, parseISO } from 'date-fns'
 import styles from './date.module.css'
 

@@ -1,6 +1,6 @@
 import styles from './tagButtonList.module.css'
 import Link from 'next/link'
-import { getAllTags } from '@/lib/getAllTags'
+import { getAllTags } from 'lib/getAllTags'
 
 const tags = getAllTags()
 

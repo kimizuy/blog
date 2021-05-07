@@ -1,4 +1,4 @@
-import type { Meta } from '@/types/post'
+import type { Meta } from 'types/post'
 import { dateSortDesc } from './utils'
 
 const importAll = (r): Meta[] => {

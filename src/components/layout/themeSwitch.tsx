@@ -1,4 +1,4 @@
-import { useTheme } from '@/providers/themeProvider'
+import { useTheme } from 'providers/themeProvider'
 import { useEffect, useState } from 'react'
 import styles from './themeSwitch.module.css'
 

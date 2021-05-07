@@ -1,4 +1,4 @@
-import { GA_TRACKING_ID } from '@/lib/gtag'
+import { GA_TRACKING_ID } from 'lib/gtag'
 import Document, {
   Html,
   Head,

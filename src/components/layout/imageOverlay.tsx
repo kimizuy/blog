@@ -1,4 +1,4 @@
-import { useImageOverlay } from '@/providers/imageOverlayProvider'
+import { useImageOverlay } from 'providers/imageOverlayProvider'
 import Image from 'next/image'
 import styles from './imageOverlay.module.css'
 

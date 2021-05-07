@@ -1,5 +1,5 @@
 import { dateSortDesc } from './utils'
-import { Preview } from '@/types/post'
+import { Preview } from 'types/post'
 
 const importAll = (r): Preview[] => {
   return r.keys().map(
